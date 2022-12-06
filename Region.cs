@@ -16,16 +16,5 @@ namespace GridDivider
             this.InnerCellsCoordinates = new List<Coordinate>();
             this.SurroundingCellsCoordinates = new List<Coordinate>();
         }
-
-
-        /*public List<Coordinate> AddCellCoordinate(Coordinate coordinate, List<Coordinate> coordinates)
-        {
-
-        }
-
-        public List<Coordinate> RemoveCellCoordinate(Coordinate coordinate, List<Coordinate> coordinates)
-        {
-
-        }*/
     }
 }
